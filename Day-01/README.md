@@ -4,7 +4,8 @@
 
 > These handwritten notes cover the fundamentals of C++ required to start DSA.
 
-![Day 1 C++ Basics Notes](day1_cpp_basics_notes.jpg)
+![Day 1 C++ Basics Notes](day 1.jpeg)
+
 
 ---
 
