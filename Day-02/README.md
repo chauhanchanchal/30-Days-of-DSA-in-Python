@@ -21,7 +21,7 @@ if (condition) {
 
 ```
 
-example
+**example:**
 ```cpp
 int x = 10;
 if (x > 5) {
@@ -41,7 +41,7 @@ if (condition) {
     // statement 2
 }
 ```
-example
+**example:**
 ```cpp
 int n = 5;
 if (n % 2 == 0) {
@@ -65,7 +65,7 @@ if (condition1) {
     // statement
 }
 ```
-example
+**example:**
 ```cpp
 int marks = 90;
 if (marks >= 90) {
@@ -94,9 +94,8 @@ while (condition) {
     // update
 }
 ```
-
-```
-example:
+**example:**
+```cpp
 int i = 1;
 while (i <= 5) {
     cout << i << " ";
@@ -113,8 +112,8 @@ for (initialization; condition; update) {
     // statement
 }
 ```
-```
-example:
+**example:**
+```cpp
 for (int i = 1; i <= 5; i++) {
     cout << i << " ";
 }
@@ -131,8 +130,8 @@ do {
     // update
 } while (condition);
 ```
-```
-example:
+**example:**
+```cpp
 int i = 1;
 do {
     cout << i << " ";
@@ -142,15 +141,17 @@ do {
 ### 2.4 Nested Loops
 
 A nested loop is a loop inside another loop.
-```
+
+**Syntax:**
+```cpp
 for (initialization; condition; update) {
     for (initialization; condition; update){
     // statement
     }
 }
 ```
-```
-example:
+**example:**
+```cpp
 for (int i = 1; i <= 3; i++) {
     for (int j = 1; j <= 3; j++) {
         cout << i << " ";
@@ -167,8 +168,8 @@ for (int i = 1; i <= 3; i++) {
 ###4.1 break Statement
 
 The break statement terminates the loop immediately.
-```
-example:
+**example:**
+```cpp
 for (int i = 1; i <= 5; i++) {
     if (i == 3) {
         break;
@@ -179,8 +180,9 @@ for (int i = 1; i <= 5; i++) {
 ### 4.2 continue Statement
 
 The continue statement skips the current iteration and moves to the next iteration.
-```
-example:
+
+**example:**
+```cpp
 for (int i = 1; i <= 5; i++) {
     if (i == 3) {
         continue;
@@ -188,12 +190,17 @@ for (int i = 1; i <= 5; i++) {
     cout << i << " ";
 }
 ```
-Summary
 
--Learned conditional statements: if, if–else, if–else–if
--Learned loop statements: while, for, do–while
--Understood nested loops
--Used loop control statements: break and continue
+---
+
+
+##Summary
+
+- Learned conditional statements: `if`, `if–else`, `if–else–if`
+- Learned loop statements: `while`, `for`, `do–while`
+- Understood nested loops
+- Used loop control statements: `break` and `continue`
+
 
 📌 End of Day 02
 
