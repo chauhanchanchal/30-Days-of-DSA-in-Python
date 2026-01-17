@@ -32,7 +32,7 @@ COVERED TOPICS:
 > These handwritten notes cover the fundamentals of C++ required to start DSA.
 
 
-![Day 1 – C++ Basics](image/DAY-01.png.jpeg)
+![Day 1 – C++ Basics](Day-01/image/DAY-01.png.jpeg)
 
 
 
