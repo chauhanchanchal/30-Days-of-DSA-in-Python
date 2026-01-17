@@ -190,10 +190,10 @@ for (int i = 1; i <= 5; i++) {
 ```
 Summary
 
-Learned conditional statements: if, if–else, if–else–if
-Learned loop statements: while, for, do–while
-Understood nested loops
-Used loop control statements: break and continue
+-Learned conditional statements: if, if–else, if–else–if
+-Learned loop statements: while, for, do–while
+-Understood nested loops
+-Used loop control statements: break and continue
 
 📌 End of Day 02
 
