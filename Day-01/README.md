@@ -72,7 +72,7 @@ int a = 5, b = 10;
 cout << a << " " << b;
 ```
 ---
-⌨️ 3. Input in C++ (cin)
+## 3. Input in C++ (cin)
 
 cin is used to take input from the user.
 
