@@ -36,13 +36,13 @@ The goal is to understand syntax, input/output, and simple logic building.
 
 ### 1.basic structure
 
-# #include <iostream>
+### #include <iostream>
 Includes the library needed for input (cin) and output (cout).
 
-# using namespace std;
+### using namespace std;
 Allows using standard functions without writing std::.
 
-# int main()
+### int main()
 The main function is the starting point of execution.
 
 { }
@@ -169,7 +169,7 @@ int a = 10, b = 3;
 cout << a + b;   // 13
 cout << a % b;   // 1
 ```
-# Relational Operators
+## Relational Operators
 
 Used to compare values.
 
@@ -186,7 +186,7 @@ Operator	Meaning
 int a = 10, b = 20;
 cout << (a < b);   // 1 (true)
 ```
-# Logical Operators
+##Logical Operators
 
 Used to combine conditions.
 
